@@ -1,2 +1,2 @@
-# -clouddemo-config
+# clouddemo-config
 springcloud demo config
